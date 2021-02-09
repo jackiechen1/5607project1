@@ -1,6 +1,6 @@
 # 5607project1
 The code was compiled on Windows OS.
-
+There is a picture and a demo video along with the code.
 Extra features I implemented:
 1. Animation without user input. The square will automatically move to the right even without a user.
 2. Visually feedback when the user pressed the keyboard. When the user pressed the "space", the cube will jump a little bit then fall (follow the Newton motion equation).
